@@ -80,7 +80,7 @@ MIT License
 
 ## Contributing
 
-We welcome contributions to [Tool Name]! If you're looking to contribute, here's how you can help.
+We welcome contributions to DBViewBackup! If you're looking to contribute, here's how you can help.
 
 ### Reporting Issues
 
